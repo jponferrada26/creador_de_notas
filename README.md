@@ -6,6 +6,6 @@ Es una web desarrollada en : HTML5, CSS, JQUERY(JS), PHP y MYSQL.
 * En la web permite modificar el correo del usuario registrado.
 
 Instrucciones de uso:
-1.PEpe
-2.Paco
+1. PEpe
+2. Paco
 
