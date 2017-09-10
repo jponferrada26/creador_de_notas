@@ -6,6 +6,9 @@ Es una web desarrollada en : HTML5, CSS, JQUERY(JS), PHP y MYSQL.
 * En la web permite modificar el correo del usuario registrado.
 
 Instrucciones de uso:
-1. PEpe
-2. Paco
+1. Crear una base de datos.
+2. Introducir el script de la creación de tablas sql.
+3. Modificar los datos del php que establece la conexión con la BBDD.
+4. Crear los usuarios desde el administrador de BBDD(Ejm: PhpMyAdmin) que se deseen que inicien sesión en la web.
+5. Iniciar sesión con un usuario  y comenzar a crear notas.
 
